@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/heymadhurhere/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -15,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/heymadhurhere/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
