@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/heymadhurhere/DSA/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/heymadhurhere/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [1813-maximum-erasure-value](https://github.com/heymadhurhere/DSA/tree/master/1813-maximum-erasure-value) |
 | [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Simulation
 |  |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/heymadhurhere/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
@@ -127,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
