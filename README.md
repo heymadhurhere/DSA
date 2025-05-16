@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/heymadhurhere/DSA/tree/master/0198-house-robber) |
 | [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/heymadhurhere/DSA/tree/master/0854-making-a-large-island) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/heymadhurhere/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/heymadhurhere/DSA/tree/master/0198-house-robber) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/heymadhurhere/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
