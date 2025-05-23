@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/heymadhurhere/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/heymadhurhere/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/heymadhurhere/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/heymadhurhere/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/heymadhurhere/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/heymadhurhere/DSA/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/heymadhurhere/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/heymadhurhere/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/heymadhurhere/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/heymadhurhere/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/heymadhurhere/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/heymadhurhere/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
