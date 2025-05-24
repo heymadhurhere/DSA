@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/heymadhurhere/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/heymadhurhere/DSA/tree/master/3194-find-words-containing-character) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/heymadhurhere/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/heymadhurhere/DSA/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
