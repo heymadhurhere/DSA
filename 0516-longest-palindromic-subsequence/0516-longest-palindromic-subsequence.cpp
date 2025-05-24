@@ -1,26 +1,23 @@
 class Solution {
 public:
-    int solve(string& text1, string& text2, int idx1, int idx2,
-              vector<vector<int>>& dp) {
-        if (idx1 < 0 || idx2 < 0) {
-            return 0;
+    int solve(string text1, string text2) {
+        int m = text1.length(), n = text2.length();
+        vector<vector<int>> dp(m + 1, vector<int>(n + 1, 0));
+
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (text1[i - 1] == text2[j - 1]) {
+                    dp[i][j] = 1 + dp[i - 1][j - 1];
+                } else {
+                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
+                }
+            }
         }
-        if (dp[idx1][idx2] != -1) {
-            return dp[idx1][idx2];
-        }
-        int len = 0;
-        if (text1[idx1] == text2[idx2]) {
-            len = 1 + solve(text1, text2, idx1 - 1, idx2 - 1, dp);
-        }
-        return dp[idx1][idx2] =
-                   max({len, solve(text1, text2, idx1 - 1, idx2, dp),
-                        solve(text1, text2, idx1, idx2 - 1, dp)});
+        return dp[m][n];
     }
     int longestPalindromeSubseq(string s) {
         string s2 = s;
         reverse(s2.begin(), s2.end());
-        int n = s.length();
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1, -1));
-        return solve(s, s2, n - 1, n - 1, dp);
+        return solve(s, s2);
     }
 };
