@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/heymadhurhere/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/heymadhurhere/DSA/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heymadhurhere/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/heymadhurhere/DSA/tree/master/0854-making-a-large-island) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/heymadhurhere/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/heymadhurhere/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/heymadhurhere/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heymadhurhere/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/heymadhurhere/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heymadhurhere/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heymadhurhere/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
