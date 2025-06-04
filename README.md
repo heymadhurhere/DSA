@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/heymadhurhere/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/heymadhurhere/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/heymadhurhere/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heymadhurhere/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/heymadhurhere/DSA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/heymadhurhere/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/heymadhurhere/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/heymadhurhere/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heymadhurhere/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/heymadhurhere/DSA/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heymadhurhere/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/heymadhurhere/DSA/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/heymadhurhere/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
