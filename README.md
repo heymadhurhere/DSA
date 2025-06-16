@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/heymadhurhere/DSA/tree/master/1813-maximum-erasure-value) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/heymadhurhere/DSA/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/heymadhurhere/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
