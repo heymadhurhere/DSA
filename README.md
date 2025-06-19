@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heymadhurhere/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/heymadhurhere/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/heymadhurhere/DSA/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heymadhurhere/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/heymadhurhere/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/heymadhurhere/DSA/tree/master/3815-sum-of-largest-prime-substrings) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/heymadhurhere/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/heymadhurhere/DSA/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heymadhurhere/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/heymadhurhere/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
