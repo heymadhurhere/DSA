@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/heymadhurhere/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1761-count-sorted-vowel-strings](https://github.com/heymadhurhere/DSA/tree/master/1761-count-sorted-vowel-strings) |
+| [1764-maximum-repeating-substring](https://github.com/heymadhurhere/DSA/tree/master/1764-maximum-repeating-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/heymadhurhere/DSA/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/heymadhurhere/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/heymadhurhere/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/heymadhurhere/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1543-simplified-fractions](https://github.com/heymadhurhere/DSA/tree/master/1543-simplified-fractions) |
+| [1764-maximum-repeating-substring](https://github.com/heymadhurhere/DSA/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/heymadhurhere/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/heymadhurhere/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/heymadhurhere/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1764-maximum-repeating-substring](https://github.com/heymadhurhere/DSA/tree/master/1764-maximum-repeating-substring) |
 ## Hash Function
 |  |
 | ------- |
