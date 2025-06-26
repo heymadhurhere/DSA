@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/heymadhurhere/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1761-count-sorted-vowel-strings](https://github.com/heymadhurhere/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/heymadhurhere/DSA/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/heymadhurhere/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/heymadhurhere/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1543-simplified-fractions](https://github.com/heymadhurhere/DSA/tree/master/1543-simplified-fractions) |
 | [1761-count-sorted-vowel-strings](https://github.com/heymadhurhere/DSA/tree/master/1761-count-sorted-vowel-strings) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/heymadhurhere/DSA/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/heymadhurhere/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/heymadhurhere/DSA/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/heymadhurhere/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
