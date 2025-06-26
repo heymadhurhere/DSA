@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/heymadhurhere/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-cherry-pickup-ii](https://github.com/heymadhurhere/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/heymadhurhere/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/heymadhurhere/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/heymadhurhere/DSA/tree/master/1813-maximum-erasure-value) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/heymadhurhere/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1503-reducing-dishes](https://github.com/heymadhurhere/DSA/tree/master/1503-reducing-dishes) |
 | [1559-cherry-pickup-ii](https://github.com/heymadhurhere/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/heymadhurhere/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1761-count-sorted-vowel-strings](https://github.com/heymadhurhere/DSA/tree/master/1761-count-sorted-vowel-strings) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/heymadhurhere/DSA/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/heymadhurhere/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/heymadhurhere/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/heymadhurhere/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/heymadhurhere/DSA/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/heymadhurhere/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Monotonic Stack
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/heymadhurhere/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
