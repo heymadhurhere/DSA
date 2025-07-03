@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heymadhurhere/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/heymadhurhere/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/heymadhurhere/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/heymadhurhere/DSA/tree/master/3194-find-words-containing-character) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0878-shifting-letters](https://github.com/heymadhurhere/DSA/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/heymadhurhere/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Indexed Tree
 |  |
