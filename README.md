@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/heymadhurhere/DSA/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/heymadhurhere/DSA/tree/master/0876-hand-of-straights) |
+| [0878-shifting-letters](https://github.com/heymadhurhere/DSA/tree/master/0878-shifting-letters) |
 | [0945-snakes-and-ladders](https://github.com/heymadhurhere/DSA/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/heymadhurhere/DSA/tree/master/1121-partition-array-for-maximum-sum) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/heymadhurhere/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
+| [0878-shifting-letters](https://github.com/heymadhurhere/DSA/tree/master/0878-shifting-letters) |
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/heymadhurhere/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/heymadhurhere/DSA/tree/master/1250-longest-common-subsequence) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/heymadhurhere/DSA/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/heymadhurhere/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Indexed Tree
