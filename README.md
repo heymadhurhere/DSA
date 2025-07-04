@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/heymadhurhere/DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/heymadhurhere/DSA/tree/master/3194-find-words-containing-character) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/heymadhurhere/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/heymadhurhere/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3591-shift-distance-between-two-strings](https://github.com/heymadhurhere/DSA/tree/master/3591-shift-distance-between-two-strings) |
 | [3617-find-the-original-typed-string-i](https://github.com/heymadhurhere/DSA/tree/master/3617-find-the-original-typed-string-i) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/heymadhurhere/DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/heymadhurhere/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/heymadhurhere/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/heymadhurhere/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
