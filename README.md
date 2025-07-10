@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/heymadhurhere/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heymadhurhere/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/heymadhurhere/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/heymadhurhere/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/heymadhurhere/DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Depth-First Search
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
 |  |
 | ------- |
