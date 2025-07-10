@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/heymadhurhere/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/heymadhurhere/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/heymadhurhere/DSA/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/heymadhurhere/DSA/tree/master/1447-jump-game-iv) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/heymadhurhere/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/heymadhurhere/DSA/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/heymadhurhere/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/heymadhurhere/DSA/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1447-jump-game-iv](https://github.com/heymadhurhere/DSA/tree/master/1447-jump-game-iv) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/heymadhurhere/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/heymadhurhere/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/heymadhurhere/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/heymadhurhere/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1447-jump-game-iv](https://github.com/heymadhurhere/DSA/tree/master/1447-jump-game-iv) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/heymadhurhere/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1813-maximum-erasure-value](https://github.com/heymadhurhere/DSA/tree/master/1813-maximum-erasure-value) |
