@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/heymadhurhere/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/heymadhurhere/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1813-maximum-erasure-value](https://github.com/heymadhurhere/DSA/tree/master/1813-maximum-erasure-value) |
+| [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/heymadhurhere/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/heymadhurhere/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/heymadhurhere/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/heymadhurhere/DSA/tree/master/1764-maximum-repeating-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/heymadhurhere/DSA/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/heymadhurhere/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/heymadhurhere/DSA/tree/master/1543-simplified-fractions) |
 | [1764-maximum-repeating-substring](https://github.com/heymadhurhere/DSA/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/heymadhurhere/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/heymadhurhere/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0878-shifting-letters](https://github.com/heymadhurhere/DSA/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
 | [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
 | [3591-shift-distance-between-two-strings](https://github.com/heymadhurhere/DSA/tree/master/3591-shift-distance-between-two-strings) |
 | [3618-find-the-original-typed-string-ii](https://github.com/heymadhurhere/DSA/tree/master/3618-find-the-original-typed-string-ii) |
