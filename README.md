@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/heymadhurhere/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/heymadhurhere/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/heymadhurhere/DSA/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/heymadhurhere/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/heymadhurhere/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/heymadhurhere/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/heymadhurhere/DSA/tree/master/0494-target-sum) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/heymadhurhere/DSA/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/heymadhurhere/DSA/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/heymadhurhere/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/heymadhurhere/DSA/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heymadhurhere/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/heymadhurhere/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1086-divisor-game](https://github.com/heymadhurhere/DSA/tree/master/1086-divisor-game) |
 ## Divide and Conquer
 |  |
