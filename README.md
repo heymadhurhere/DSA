@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/heymadhurhere/DSA/tree/master/3194-find-words-containing-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/heymadhurhere/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/heymadhurhere/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3265-maximum-good-subarray-sum](https://github.com/heymadhurhere/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/heymadhurhere/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3591-shift-distance-between-two-strings](https://github.com/heymadhurhere/DSA/tree/master/3591-shift-distance-between-two-strings) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/heymadhurhere/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heymadhurhere/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/heymadhurhere/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3265-maximum-good-subarray-sum](https://github.com/heymadhurhere/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/heymadhurhere/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/heymadhurhere/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/heymadhurhere/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
 | [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
+| [3265-maximum-good-subarray-sum](https://github.com/heymadhurhere/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3591-shift-distance-between-two-strings](https://github.com/heymadhurhere/DSA/tree/master/3591-shift-distance-between-two-strings) |
 | [3618-find-the-original-typed-string-ii](https://github.com/heymadhurhere/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Indexed Tree
