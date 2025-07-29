@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/heymadhurhere/DSA/tree/master/1813-maximum-erasure-value) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/heymadhurhere/DSA/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/heymadhurhere/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/heymadhurhere/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2164-two-best-non-overlapping-events](https://github.com/heymadhurhere/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/heymadhurhere/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1543-simplified-fractions](https://github.com/heymadhurhere/DSA/tree/master/1543-simplified-fractions) |
 | [1761-count-sorted-vowel-strings](https://github.com/heymadhurhere/DSA/tree/master/1761-count-sorted-vowel-strings) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/heymadhurhere/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/heymadhurhere/DSA/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/heymadhurhere/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heymadhurhere/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
