@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/heymadhurhere/DSA/tree/master/0386-lexicographical-numbers) |
 | [0508-most-frequent-subtree-sum](https://github.com/heymadhurhere/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/heymadhurhere/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0687-longest-univalue-path](https://github.com/heymadhurhere/DSA/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/heymadhurhere/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/heymadhurhere/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/heymadhurhere/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/heymadhurhere/DSA/tree/master/0687-longest-univalue-path) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/heymadhurhere/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/heymadhurhere/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/heymadhurhere/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/heymadhurhere/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/heymadhurhere/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/heymadhurhere/DSA/tree/master/0687-longest-univalue-path) |
 ## Number Theory
 |  |
 | ------- |
