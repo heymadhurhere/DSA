@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/heymadhurhere/DSA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/heymadhurhere/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/heymadhurhere/DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/heymadhurhere/DSA/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/heymadhurhere/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0900-reordered-power-of-2](https://github.com/heymadhurhere/DSA/tree/master/0900-reordered-power-of-2) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/heymadhurhere/DSA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/heymadhurhere/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/heymadhurhere/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heymadhurhere/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/heymadhurhere/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/heymadhurhere/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/heymadhurhere/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/heymadhurhere/DSA/tree/master/0342-power-of-four) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/heymadhurhere/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/heymadhurhere/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
