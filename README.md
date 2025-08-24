@@ -726,4 +726,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heymadhurhere/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/heymadhurhere/DSA/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
