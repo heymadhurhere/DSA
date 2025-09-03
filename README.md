@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/heymadhurhere/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/heymadhurhere/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/heymadhurhere/DSA/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/heymadhurhere/DSA/tree/master/0461-hamming-distance) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/heymadhurhere/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/heymadhurhere/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
