@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heymadhurhere/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/heymadhurhere/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/heymadhurhere/DSA/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3830-find-closest-person](https://github.com/heymadhurhere/DSA/tree/master/3830-find-closest-person) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/heymadhurhere/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
