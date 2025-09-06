@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/heymadhurhere/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/heymadhurhere/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2235-capitalize-the-title](https://github.com/heymadhurhere/DSA/tree/master/2235-capitalize-the-title) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/heymadhurhere/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/heymadhurhere/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
