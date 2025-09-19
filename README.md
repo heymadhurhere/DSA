@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/heymadhurhere/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/heymadhurhere/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/heymadhurhere/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/heymadhurhere/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/heymadhurhere/DSA/tree/master/0149-max-points-on-a-line) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heymadhurhere/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0508-most-frequent-subtree-sum](https://github.com/heymadhurhere/DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/heymadhurhere/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/heymadhurhere/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/heymadhurhere/DSA/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/heymadhurhere/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/heymadhurhere/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/heymadhurhere/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/heymadhurhere/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/heymadhurhere/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/heymadhurhere/DSA/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/heymadhurhere/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heymadhurhere/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
 |  |
