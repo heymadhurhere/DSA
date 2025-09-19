@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/heymadhurhere/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/heymadhurhere/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/heymadhurhere/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/heymadhurhere/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/heymadhurhere/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/heymadhurhere/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/heymadhurhere/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/heymadhurhere/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heymadhurhere/DSA/tree/master/0342-power-of-four) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/heymadhurhere/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/heymadhurhere/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/heymadhurhere/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/heymadhurhere/DSA/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/heymadhurhere/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heymadhurhere/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
 |  |
