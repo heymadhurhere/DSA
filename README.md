@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/heymadhurhere/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/heymadhurhere/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/heymadhurhere/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/heymadhurhere/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/heymadhurhere/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/heymadhurhere/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/heymadhurhere/DSA/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/heymadhurhere/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0234-palindrome-linked-list) |
