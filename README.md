@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/heymadhurhere/DSA/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/heymadhurhere/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/heymadhurhere/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/heymadhurhere/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/heymadhurhere/DSA/tree/master/0056-merge-intervals) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/heymadhurhere/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/heymadhurhere/DSA/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/heymadhurhere/DSA/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/heymadhurhere/DSA/tree/master/0813-all-paths-from-source-to-target) |
