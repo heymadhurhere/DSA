@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/heymadhurhere/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/heymadhurhere/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/heymadhurhere/DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/heymadhurhere/DSA/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/heymadhurhere/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/heymadhurhere/DSA/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/heymadhurhere/DSA/tree/master/0813-all-paths-from-source-to-target) |
