@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/heymadhurhere/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/heymadhurhere/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/heymadhurhere/DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/heymadhurhere/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/heymadhurhere/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/heymadhurhere/DSA/tree/master/0118-pascals-triangle) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/heymadhurhere/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/heymadhurhere/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/heymadhurhere/DSA/tree/master/0456-132-pattern) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/heymadhurhere/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/heymadhurhere/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/heymadhurhere/DSA/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0654-maximum-binary-tree) |
