@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/heymadhurhere/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/heymadhurhere/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heymadhurhere/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/heymadhurhere/DSA/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heymadhurhere/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/heymadhurhere/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/heymadhurhere/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1572-subrectangle-queries](https://github.com/heymadhurhere/DSA/tree/master/1572-subrectangle-queries) |
 ## Data Stream
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/heymadhurhere/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/heymadhurhere/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heymadhurhere/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heymadhurhere/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heymadhurhere/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -832,4 +835,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/heymadhurhere/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
