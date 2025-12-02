@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/heymadhurhere/DSA/tree/master/1813-maximum-erasure-value) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/heymadhurhere/DSA/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/heymadhurhere/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/heymadhurhere/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2164-two-best-non-overlapping-events](https://github.com/heymadhurhere/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/heymadhurhere/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/heymadhurhere/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2227-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Monotonic Stack
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/heymadhurhere/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/heymadhurhere/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2227-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
