@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/heymadhurhere/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heymadhurhere/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
+| [0739-daily-temperatures](https://github.com/heymadhurhere/DSA/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/heymadhurhere/DSA/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/heymadhurhere/DSA/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/heymadhurhere/DSA/tree/master/0878-shifting-letters) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/heymadhurhere/DSA/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/heymadhurhere/DSA/tree/master/0739-daily-temperatures) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/heymadhurhere/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/heymadhurhere/DSA/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/heymadhurhere/DSA/tree/master/0739-daily-temperatures) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/heymadhurhere/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2227-sum-of-subarray-ranges) |
