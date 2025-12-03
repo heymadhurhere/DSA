@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/heymadhurhere/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/heymadhurhere/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/heymadhurhere/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/heymadhurhere/DSA/tree/master/0063-unique-paths-ii) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heymadhurhere/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/heymadhurhere/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/heymadhurhere/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/heymadhurhere/DSA/tree/master/0115-distinct-subsequences) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/heymadhurhere/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/heymadhurhere/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/heymadhurhere/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/heymadhurhere/DSA/tree/master/0042-trapping-rain-water) |
