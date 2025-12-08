@@ -6,25 +6,34 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        if (root == NULL){
-            return ans;
+        TreeNode* curr = root;
+        while (curr != NULL) {
+            if (curr->left == NULL) {
+                ans.push_back(curr->val);
+                curr = curr->right;
+            } else {
+                TreeNode* prev = curr->left;
+                while (prev->right != NULL && prev->right != curr) {
+                    prev = prev->right;
+                }
+                if (prev->right == NULL) {
+                    prev->right = curr;
+                    ans.push_back(curr->val);
+                    curr = curr->left;
+                } else {
+                    prev->right = NULL;
+                    curr = curr->right;
+                }
+            }
         }
-
-        ans.push_back(root->val);
-
-        vector<int> left = preorderTraversal(root->left);
-        ans.insert(ans.end(), left.begin(), left.end());
-
-        vector<int> right = preorderTraversal(root->right);
-        ans.insert(ans.end(), right.begin(), right.end());
-
         return ans;
     }
 };
