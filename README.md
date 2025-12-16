@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/heymadhurhere/DSA/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/heymadhurhere/DSA/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/heymadhurhere/DSA/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/heymadhurhere/DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/heymadhurhere/DSA/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/heymadhurhere/DSA/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heymadhurhere/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/heymadhurhere/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/heymadhurhere/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/heymadhurhere/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/heymadhurhere/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1572-subrectangle-queries](https://github.com/heymadhurhere/DSA/tree/master/1572-subrectangle-queries) |
 ## Data Stream
 |  |
@@ -796,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/heymadhurhere/DSA/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/heymadhurhere/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/heymadhurhere/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -829,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/heymadhurhere/DSA/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/heymadhurhere/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/heymadhurhere/DSA/tree/master/0572-subtree-of-another-tree) |
