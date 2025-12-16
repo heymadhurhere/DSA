@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/heymadhurhere/DSA/tree/master/0871-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/heymadhurhere/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/heymadhurhere/DSA/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/heymadhurhere/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/heymadhurhere/DSA/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/heymadhurhere/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/heymadhurhere/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/heymadhurhere/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/heymadhurhere/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/heymadhurhere/DSA/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/heymadhurhere/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/heymadhurhere/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/heymadhurhere/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -825,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/heymadhurhere/DSA/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -952,4 +956,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
