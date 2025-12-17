@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/heymadhurhere/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heymadhurhere/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/heymadhurhere/DSA/tree/master/3531-count-covered-buildings) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/heymadhurhere/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3591-shift-distance-between-two-strings](https://github.com/heymadhurhere/DSA/tree/master/3591-shift-distance-between-two-strings) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/heymadhurhere/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/heymadhurhere/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/heymadhurhere/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/heymadhurhere/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3618-find-the-original-typed-string-ii](https://github.com/heymadhurhere/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/heymadhurhere/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/heymadhurhere/DSA/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
