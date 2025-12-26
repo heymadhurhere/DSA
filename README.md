@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/heymadhurhere/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/heymadhurhere/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/heymadhurhere/DSA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/heymadhurhere/DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
 | [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/heymadhurhere/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3265-maximum-good-subarray-sum](https://github.com/heymadhurhere/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heymadhurhere/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3591-shift-distance-between-two-strings](https://github.com/heymadhurhere/DSA/tree/master/3591-shift-distance-between-two-strings) |
