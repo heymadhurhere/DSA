@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-maximum-good-subarray-sum](https://github.com/heymadhurhere/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/heymadhurhere/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heymadhurhere/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3453-separate-squares-i](https://github.com/heymadhurhere/DSA/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/heymadhurhere/DSA/tree/master/3531-count-covered-buildings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/heymadhurhere/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3591-shift-distance-between-two-strings](https://github.com/heymadhurhere/DSA/tree/master/3591-shift-distance-between-two-strings) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3453-separate-squares-i](https://github.com/heymadhurhere/DSA/tree/master/3453-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/heymadhurhere/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
