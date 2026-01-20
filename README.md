@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/heymadhurhere/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/heymadhurhere/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heymadhurhere/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/heymadhurhere/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/heymadhurhere/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/heymadhurhere/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/heymadhurhere/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/heymadhurhere/DSA/tree/master/0900-reordered-power-of-2) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/heymadhurhere/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1306-minimum-absolute-difference](https://github.com/heymadhurhere/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/heymadhurhere/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/heymadhurhere/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/heymadhurhere/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heymadhurhere/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/heymadhurhere/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/heymadhurhere/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
