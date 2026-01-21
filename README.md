@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-maximum-good-subarray-sum](https://github.com/heymadhurhere/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/heymadhurhere/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/heymadhurhere/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heymadhurhere/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heymadhurhere/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/heymadhurhere/DSA/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/heymadhurhere/DSA/tree/master/3531-count-covered-buildings) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3183-find-the-k-or-of-an-array](https://github.com/heymadhurhere/DSA/tree/master/3183-find-the-k-or-of-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/heymadhurhere/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/heymadhurhere/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heymadhurhere/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heymadhurhere/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/heymadhurhere/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bitmask
