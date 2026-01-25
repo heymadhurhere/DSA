@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/heymadhurhere/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/heymadhurhere/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heymadhurhere/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/heymadhurhere/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## String
 |  |
 | ------- |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/heymadhurhere/DSA/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1975-maximum-matrix-sum](https://github.com/heymadhurhere/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/heymadhurhere/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/heymadhurhere/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2233-maximum-product-after-k-increments](https://github.com/heymadhurhere/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/heymadhurhere/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/heymadhurhere/DSA/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heymadhurhere/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/heymadhurhere/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/heymadhurhere/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/heymadhurhere/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
