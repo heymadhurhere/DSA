@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/heymadhurhere/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/heymadhurhere/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/heymadhurhere/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/heymadhurhere/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/heymadhurhere/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/heymadhurhere/DSA/tree/master/0088-merge-sorted-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/heymadhurhere/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/heymadhurhere/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/heymadhurhere/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/heymadhurhere/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/heymadhurhere/DSA/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/heymadhurhere/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/heymadhurhere/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/heymadhurhere/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/heymadhurhere/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/heymadhurhere/DSA/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/heymadhurhere/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/heymadhurhere/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/heymadhurhere/DSA/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/heymadhurhere/DSA/tree/master/0813-all-paths-from-source-to-target) |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/heymadhurhere/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/heymadhurhere/DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/heymadhurhere/DSA/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/heymadhurhere/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/heymadhurhere/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/heymadhurhere/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/heymadhurhere/DSA/tree/master/0151-reverse-words-in-a-string) |
