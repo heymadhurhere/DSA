@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/heymadhurhere/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/heymadhurhere/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/heymadhurhere/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/heymadhurhere/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/heymadhurhere/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heymadhurhere/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/heymadhurhere/DSA/tree/master/0900-reordered-power-of-2) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/heymadhurhere/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/heymadhurhere/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1306-minimum-absolute-difference](https://github.com/heymadhurhere/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/heymadhurhere/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
