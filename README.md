@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/heymadhurhere/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heymadhurhere/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heymadhurhere/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/heymadhurhere/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3265-maximum-good-subarray-sum](https://github.com/heymadhurhere/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/heymadhurhere/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/heymadhurhere/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/heymadhurhere/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/heymadhurhere/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3453-separate-squares-i](https://github.com/heymadhurhere/DSA/tree/master/3453-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/heymadhurhere/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -709,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/heymadhurhere/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/heymadhurhere/DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3055-maximum-odd-binary-number](https://github.com/heymadhurhere/DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/heymadhurhere/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heymadhurhere/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -748,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/heymadhurhere/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Design
 |  |
 | ------- |
