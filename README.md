@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/heymadhurhere/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3226-minimum-number-game](https://github.com/heymadhurhere/DSA/tree/master/3226-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heymadhurhere/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/heymadhurhere/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/heymadhurhere/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Dynamic Programming
 |  |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/heymadhurhere/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/heymadhurhere/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/heymadhurhere/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1121,4 +1123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/heymadhurhere/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/heymadhurhere/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
