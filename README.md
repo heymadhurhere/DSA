@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/heymadhurhere/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/heymadhurhere/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/heymadhurhere/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/heymadhurhere/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/heymadhurhere/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/heymadhurhere/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/heymadhurhere/DSA/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/heymadhurhere/DSA/tree/master/3531-count-covered-buildings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/heymadhurhere/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/heymadhurhere/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/heymadhurhere/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/heymadhurhere/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/heymadhurhere/DSA/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Sorting
