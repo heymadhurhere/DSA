@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1447-jump-game-iv](https://github.com/heymadhurhere/DSA/tree/master/1447-jump-game-iv) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/heymadhurhere/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/heymadhurhere/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Matrix
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/heymadhurhere/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/heymadhurhere/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heymadhurhere/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/heymadhurhere/DSA/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/heymadhurhere/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/heymadhurhere/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/heymadhurhere/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -955,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/heymadhurhere/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/heymadhurhere/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/heymadhurhere/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -996,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
 |  |
 | ------- |
