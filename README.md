@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/heymadhurhere/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/heymadhurhere/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heymadhurhere/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heymadhurhere/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/heymadhurhere/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heymadhurhere/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/heymadhurhere/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/heymadhurhere/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heymadhurhere/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/heymadhurhere/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heymadhurhere/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3226-minimum-number-game](https://github.com/heymadhurhere/DSA/tree/master/3226-minimum-number-game) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/heymadhurhere/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/heymadhurhere/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/heymadhurhere/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heymadhurhere/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/heymadhurhere/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Sliding Window
 |  |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/heymadhurhere/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heymadhurhere/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heymadhurhere/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3055-maximum-odd-binary-number](https://github.com/heymadhurhere/DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heymadhurhere/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/heymadhurhere/DSA/tree/master/0149-max-points-on-a-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/heymadhurhere/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heymadhurhere/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heymadhurhere/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Binary Tree
 |  |
