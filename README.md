@@ -703,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/heymadhurhere/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
 | [2027-minimum-moves-to-convert-string](https://github.com/heymadhurhere/DSA/tree/master/2027-minimum-moves-to-convert-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/heymadhurhere/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/heymadhurhere/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2211-count-collisions-on-a-road](https://github.com/heymadhurhere/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2235-capitalize-the-title](https://github.com/heymadhurhere/DSA/tree/master/2235-capitalize-the-title) |
