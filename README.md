@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/heymadhurhere/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3591-shift-distance-between-two-strings](https://github.com/heymadhurhere/DSA/tree/master/3591-shift-distance-between-two-strings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/heymadhurhere/DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3639-minimum-time-to-activate-string](https://github.com/heymadhurhere/DSA/tree/master/3639-minimum-time-to-activate-string) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/heymadhurhere/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/heymadhurhere/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/heymadhurhere/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3453-separate-squares-i](https://github.com/heymadhurhere/DSA/tree/master/3453-separate-squares-i) |
+| [3639-minimum-time-to-activate-string](https://github.com/heymadhurhere/DSA/tree/master/3639-minimum-time-to-activate-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/heymadhurhere/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
