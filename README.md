@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/heymadhurhere/DSA/tree/master/0878-shifting-letters) |
 | [0890-find-and-replace-pattern](https://github.com/heymadhurhere/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/heymadhurhere/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0941-valid-mountain-array](https://github.com/heymadhurhere/DSA/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/heymadhurhere/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/heymadhurhere/DSA/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
