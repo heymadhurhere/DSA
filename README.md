@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/heymadhurhere/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/heymadhurhere/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/heymadhurhere/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/heymadhurhere/DSA/tree/master/0735-asteroid-collision) |
 | [1006-clumsy-factorial](https://github.com/heymadhurhere/DSA/tree/master/1006-clumsy-factorial) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/heymadhurhere/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/heymadhurhere/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/heymadhurhere/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/heymadhurhere/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/heymadhurhere/DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/heymadhurhere/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/heymadhurhere/DSA/tree/master/0115-distinct-subsequences) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/heymadhurhere/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/heymadhurhere/DSA/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/heymadhurhere/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/heymadhurhere/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/heymadhurhere/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/heymadhurhere/DSA/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/heymadhurhere/DSA/tree/master/0231-power-of-two) |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/heymadhurhere/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/heymadhurhere/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/heymadhurhere/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/heymadhurhere/DSA/tree/master/0342-power-of-four) |
