@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/heymadhurhere/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/heymadhurhere/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/heymadhurhere/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/heymadhurhere/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/heymadhurhere/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/heymadhurhere/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/heymadhurhere/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3453-separate-squares-i](https://github.com/heymadhurhere/DSA/tree/master/3453-separate-squares-i) |
 | [3639-minimum-time-to-activate-string](https://github.com/heymadhurhere/DSA/tree/master/3639-minimum-time-to-activate-string) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/heymadhurhere/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3790-fruits-into-baskets-ii](https://github.com/heymadhurhere/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/heymadhurhere/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/heymadhurhere/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Design
 |  |
 | ------- |
@@ -1099,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heymadhurhere/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heymadhurhere/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/heymadhurhere/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/heymadhurhere/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Bitmask
 |  |
 | ------- |
