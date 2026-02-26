@@ -786,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/heymadhurhere/DSA/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1975-maximum-matrix-sum](https://github.com/heymadhurhere/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2027-minimum-moves-to-convert-string](https://github.com/heymadhurhere/DSA/tree/master/2027-minimum-moves-to-convert-string) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/heymadhurhere/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/heymadhurhere/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/heymadhurhere/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2233-maximum-product-after-k-increments](https://github.com/heymadhurhere/DSA/tree/master/2233-maximum-product-after-k-increments) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/heymadhurhere/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/heymadhurhere/DSA/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heymadhurhere/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/heymadhurhere/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/heymadhurhere/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/heymadhurhere/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/heymadhurhere/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
