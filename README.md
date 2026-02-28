@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/heymadhurhere/DSA/tree/master/1006-clumsy-factorial) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/heymadhurhere/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/heymadhurhere/DSA/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2211-count-collisions-on-a-road](https://github.com/heymadhurhere/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/heymadhurhere/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2326-spiral-matrix-iv](https://github.com/heymadhurhere/DSA/tree/master/2326-spiral-matrix-iv) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/heymadhurhere/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1543-simplified-fractions](https://github.com/heymadhurhere/DSA/tree/master/1543-simplified-fractions) |
 | [1642-water-bottles](https://github.com/heymadhurhere/DSA/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1753-maximum-score-from-removing-stones](https://github.com/heymadhurhere/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1761-count-sorted-vowel-strings](https://github.com/heymadhurhere/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/heymadhurhere/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/heymadhurhere/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/heymadhurhere/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/heymadhurhere/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heymadhurhere/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/heymadhurhere/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
