@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/heymadhurhere/DSA/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/heymadhurhere/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/heymadhurhere/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/heymadhurhere/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-cherry-pickup-ii](https://github.com/heymadhurhere/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/heymadhurhere/DSA/tree/master/1572-subrectangle-queries) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heymadhurhere/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/heymadhurhere/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/heymadhurhere/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/heymadhurhere/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-cherry-pickup-ii](https://github.com/heymadhurhere/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/heymadhurhere/DSA/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/heymadhurhere/DSA/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/heymadhurhere/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/heymadhurhere/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/heymadhurhere/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/heymadhurhere/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
