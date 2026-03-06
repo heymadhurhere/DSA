@@ -741,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/heymadhurhere/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/heymadhurhere/DSA/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/heymadhurhere/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/heymadhurhere/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/heymadhurhere/DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/heymadhurhere/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
