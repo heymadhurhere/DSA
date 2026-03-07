@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/heymadhurhere/DSA/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/heymadhurhere/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/heymadhurhere/DSA/tree/master/0945-snakes-and-ladders) |
+| [0983-minimum-cost-for-tickets](https://github.com/heymadhurhere/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/heymadhurhere/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/heymadhurhere/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heymadhurhere/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/heymadhurhere/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0983-minimum-cost-for-tickets](https://github.com/heymadhurhere/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/heymadhurhere/DSA/tree/master/1086-divisor-game) |
 | [1121-partition-array-for-maximum-sum](https://github.com/heymadhurhere/DSA/tree/master/1121-partition-array-for-maximum-sum) |
