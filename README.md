@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/heymadhurhere/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/heymadhurhere/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/heymadhurhere/DSA/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/heymadhurhere/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/heymadhurhere/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/heymadhurhere/DSA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/heymadhurhere/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/heymadhurhere/DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/heymadhurhere/DSA/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/heymadhurhere/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/heymadhurhere/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/heymadhurhere/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/heymadhurhere/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/heymadhurhere/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/heymadhurhere/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Monotonic Stack
 |  |
 | ------- |
