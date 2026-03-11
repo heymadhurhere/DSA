@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/heymadhurhere/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heymadhurhere/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/heymadhurhere/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/heymadhurhere/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heymadhurhere/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/heymadhurhere/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/heymadhurhere/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/heymadhurhere/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/heymadhurhere/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/heymadhurhere/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/heymadhurhere/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/heymadhurhere/DSA/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/heymadhurhere/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/heymadhurhere/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/heymadhurhere/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/heymadhurhere/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heymadhurhere/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
