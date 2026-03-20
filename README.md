@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/heymadhurhere/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/heymadhurhere/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/heymadhurhere/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1992-find-all-groups-of-farmland](https://github.com/heymadhurhere/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2079-watering-plants](https://github.com/heymadhurhere/DSA/tree/master/2079-watering-plants) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/heymadhurhere/DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2104-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/heymadhurhere/DSA/tree/master/1447-jump-game-iv) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
+| [1992-find-all-groups-of-farmland](https://github.com/heymadhurhere/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/heymadhurhere/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/heymadhurhere/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/heymadhurhere/DSA/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/heymadhurhere/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1992-find-all-groups-of-farmland](https://github.com/heymadhurhere/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/heymadhurhere/DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2326-spiral-matrix-iv](https://github.com/heymadhurhere/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/heymadhurhere/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
+| [1992-find-all-groups-of-farmland](https://github.com/heymadhurhere/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/heymadhurhere/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/heymadhurhere/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
