@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/heymadhurhere/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/heymadhurhere/DSA/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/heymadhurhere/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/heymadhurhere/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/heymadhurhere/DSA/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/heymadhurhere/DSA/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/heymadhurhere/DSA/tree/master/0744-network-delay-time) |
@@ -1337,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/heymadhurhere/DSA/tree/master/0684-redundant-connection) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/heymadhurhere/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
 |  |
@@ -1346,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/heymadhurhere/DSA/tree/master/0130-surrounded-regions) |
+| [0684-redundant-connection](https://github.com/heymadhurhere/DSA/tree/master/0684-redundant-connection) |
 | [1020-number-of-enclaves](https://github.com/heymadhurhere/DSA/tree/master/1020-number-of-enclaves) |
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
 <!---LeetCode Topics End-->
