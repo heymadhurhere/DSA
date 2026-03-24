@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/heymadhurhere/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/heymadhurhere/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/heymadhurhere/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/heymadhurhere/DSA/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/heymadhurhere/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/heymadhurhere/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1345,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/heymadhurhere/DSA/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/heymadhurhere/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
 |  |
@@ -1356,5 +1359,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/heymadhurhere/DSA/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/heymadhurhere/DSA/tree/master/0684-redundant-connection) |
 | [1020-number-of-enclaves](https://github.com/heymadhurhere/DSA/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
 <!---LeetCode Topics End-->
