@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/heymadhurhere/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/heymadhurhere/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1539-kth-missing-positive-number](https://github.com/heymadhurhere/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/heymadhurhere/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-cherry-pickup-ii](https://github.com/heymadhurhere/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/heymadhurhere/DSA/tree/master/1572-subrectangle-queries) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heymadhurhere/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/heymadhurhere/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/heymadhurhere/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/heymadhurhere/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/heymadhurhere/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/heymadhurhere/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
