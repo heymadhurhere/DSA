@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2751-robot-collisions](https://github.com/heymadhurhere/DSA/tree/master/2751-robot-collisions) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/heymadhurhere/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/heymadhurhere/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/heymadhurhere/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2751-robot-collisions](https://github.com/heymadhurhere/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heymadhurhere/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/heymadhurhere/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/heymadhurhere/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2326-spiral-matrix-iv](https://github.com/heymadhurhere/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/heymadhurhere/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2751-robot-collisions](https://github.com/heymadhurhere/DSA/tree/master/2751-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/heymadhurhere/DSA/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/heymadhurhere/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heymadhurhere/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1098,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heymadhurhere/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/heymadhurhere/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [2751-robot-collisions](https://github.com/heymadhurhere/DSA/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
