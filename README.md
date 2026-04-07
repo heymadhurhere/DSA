@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/heymadhurhere/DSA/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heymadhurhere/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/heymadhurhere/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/heymadhurhere/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/heymadhurhere/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heymadhurhere/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/heymadhurhere/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/heymadhurhere/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/heymadhurhere/DSA/tree/master/0165-compare-version-numbers) |
+| [0208-implement-trie-prefix-tree](https://github.com/heymadhurhere/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/heymadhurhere/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/heymadhurhere/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/heymadhurhere/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/heymadhurhere/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1357-apply-discount-every-n-orders](https://github.com/heymadhurhere/DSA/tree/master/1357-apply-discount-every-n-orders) |
@@ -1258,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/heymadhurhere/DSA/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/heymadhurhere/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/heymadhurhere/DSA/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/heymadhurhere/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Queue
