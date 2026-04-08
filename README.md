@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heymadhurhere/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0894-all-possible-full-binary-trees](https://github.com/heymadhurhere/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/heymadhurhere/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/heymadhurhere/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
@@ -1051,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/heymadhurhere/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heymadhurhere/DSA/tree/master/0342-power-of-four) |
+| [0894-all-possible-full-binary-trees](https://github.com/heymadhurhere/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heymadhurhere/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/heymadhurhere/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/heymadhurhere/DSA/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0894-all-possible-full-binary-trees](https://github.com/heymadhurhere/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1168,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/heymadhurhere/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0894-all-possible-full-binary-trees](https://github.com/heymadhurhere/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/heymadhurhere/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1212,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/heymadhurhere/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0894-all-possible-full-binary-trees](https://github.com/heymadhurhere/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/heymadhurhere/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
