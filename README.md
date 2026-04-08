@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/heymadhurhere/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/heymadhurhere/DSA/tree/master/0739-daily-temperatures) |
+| [0773-sliding-puzzle](https://github.com/heymadhurhere/DSA/tree/master/0773-sliding-puzzle) |
 | [0840-magic-squares-in-grid](https://github.com/heymadhurhere/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/heymadhurhere/DSA/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/heymadhurhere/DSA/tree/master/0876-hand-of-straights) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/heymadhurhere/DSA/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/heymadhurhere/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/heymadhurhere/DSA/tree/master/0744-network-delay-time) |
+| [0773-sliding-puzzle](https://github.com/heymadhurhere/DSA/tree/master/0773-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/heymadhurhere/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/heymadhurhere/DSA/tree/master/0854-making-a-large-island) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/heymadhurhere/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heymadhurhere/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/heymadhurhere/DSA/tree/master/0498-diagonal-traverse) |
+| [0773-sliding-puzzle](https://github.com/heymadhurhere/DSA/tree/master/0773-sliding-puzzle) |
 | [0840-magic-squares-in-grid](https://github.com/heymadhurhere/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/heymadhurhere/DSA/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/heymadhurhere/DSA/tree/master/0945-snakes-and-ladders) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/heymadhurhere/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/heymadhurhere/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heymadhurhere/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0773-sliding-puzzle](https://github.com/heymadhurhere/DSA/tree/master/0773-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/heymadhurhere/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/heymadhurhere/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/heymadhurhere/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -783,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/heymadhurhere/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/heymadhurhere/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/heymadhurhere/DSA/tree/master/0494-target-sum) |
+| [0773-sliding-puzzle](https://github.com/heymadhurhere/DSA/tree/master/0773-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/heymadhurhere/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/heymadhurhere/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heymadhurhere/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1061,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/heymadhurhere/DSA/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0773-sliding-puzzle](https://github.com/heymadhurhere/DSA/tree/master/0773-sliding-puzzle) |
 | [0894-all-possible-full-binary-trees](https://github.com/heymadhurhere/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
