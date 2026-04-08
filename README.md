@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/heymadhurhere/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-minimum-time-to-activate-string](https://github.com/heymadhurhere/DSA/tree/master/3639-minimum-time-to-activate-string) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/heymadhurhere/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/heymadhurhere/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/heymadhurhere/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/heymadhurhere/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/heymadhurhere/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/heymadhurhere/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heymadhurhere/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heymadhurhere/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/heymadhurhere/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/heymadhurhere/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -1321,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/heymadhurhere/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heymadhurhere/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0654-maximum-binary-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/heymadhurhere/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/heymadhurhere/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
