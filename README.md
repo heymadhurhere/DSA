@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/heymadhurhere/DSA/tree/master/1572-subrectangle-queries) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/heymadhurhere/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/heymadhurhere/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/heymadhurhere/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/heymadhurhere/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/heymadhurhere/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -1396,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/heymadhurhere/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/heymadhurhere/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/heymadhurhere/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2685-count-the-number-of-complete-components](https://github.com/heymadhurhere/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/heymadhurhere/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1410,6 +1412,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/heymadhurhere/DSA/tree/master/0684-redundant-connection) |
 | [1020-number-of-enclaves](https://github.com/heymadhurhere/DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/heymadhurhere/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/heymadhurhere/DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/heymadhurhere/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
