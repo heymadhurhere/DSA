@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/heymadhurhere/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/heymadhurhere/DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [1140-stone-game-ii](https://github.com/heymadhurhere/DSA/tree/master/1140-stone-game-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/heymadhurhere/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/heymadhurhere/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/heymadhurhere/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/heymadhurhere/DSA/tree/master/1086-divisor-game) |
 | [1121-partition-array-for-maximum-sum](https://github.com/heymadhurhere/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/heymadhurhere/DSA/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/heymadhurhere/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/heymadhurhere/DSA/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/heymadhurhere/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/heymadhurhere/DSA/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/heymadhurhere/DSA/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/heymadhurhere/DSA/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/heymadhurhere/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/heymadhurhere/DSA/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heymadhurhere/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1088,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/heymadhurhere/DSA/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/heymadhurhere/DSA/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/heymadhurhere/DSA/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heymadhurhere/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/heymadhurhere/DSA/tree/master/1895-largest-magic-square) |
@@ -1327,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/heymadhurhere/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1086-divisor-game](https://github.com/heymadhurhere/DSA/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/heymadhurhere/DSA/tree/master/1140-stone-game-ii) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/heymadhurhere/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Divide and Conquer
 |  |
