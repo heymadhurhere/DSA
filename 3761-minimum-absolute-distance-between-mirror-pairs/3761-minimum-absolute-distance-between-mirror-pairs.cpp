@@ -32,7 +32,7 @@ public:
                     if (tmp[j] > i) {
                         found = true;
                         ans = min(ans, abs(tmp[j] - i));
-                        if (ans == 1) return ans;
+                        if (ans == 1) return ans; // to safe guard from TLE
                     }
                 }
             }
