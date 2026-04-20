@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/heymadhurhere/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1813-maximum-erasure-value](https://github.com/heymadhurhere/DSA/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/heymadhurhere/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/heymadhurhere/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/heymadhurhere/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/heymadhurhere/DSA/tree/master/1895-largest-magic-square) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/heymadhurhere/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/heymadhurhere/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/heymadhurhere/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/heymadhurhere/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2501-longest-square-streak-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2501-longest-square-streak-in-an-array) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/heymadhurhere/DSA/tree/master/1129-longest-string-chain) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/heymadhurhere/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/heymadhurhere/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/heymadhurhere/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2105-watering-plants-ii](https://github.com/heymadhurhere/DSA/tree/master/2105-watering-plants-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/heymadhurhere/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
