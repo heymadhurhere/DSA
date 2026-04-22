@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/heymadhurhere/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/heymadhurhere/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/heymadhurhere/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/heymadhurhere/DSA/tree/master/0355-design-twitter) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heymadhurhere/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/heymadhurhere/DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/heymadhurhere/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/heymadhurhere/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/heymadhurhere/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/heymadhurhere/DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/heymadhurhere/DSA/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/heymadhurhere/DSA/tree/master/0767-reorganize-string) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/heymadhurhere/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/heymadhurhere/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/heymadhurhere/DSA/tree/master/0355-design-twitter) |
 | [1357-apply-discount-every-n-orders](https://github.com/heymadhurhere/DSA/tree/master/1357-apply-discount-every-n-orders) |
 | [1572-subrectangle-queries](https://github.com/heymadhurhere/DSA/tree/master/1572-subrectangle-queries) |
 | [3815-design-auction-system](https://github.com/heymadhurhere/DSA/tree/master/3815-design-auction-system) |
@@ -1381,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heymadhurhere/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/heymadhurhere/DSA/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heymadhurhere/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2326-spiral-matrix-iv](https://github.com/heymadhurhere/DSA/tree/master/2326-spiral-matrix-iv) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heymadhurhere/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
