@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/heymadhurhere/DSA/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heymadhurhere/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
+| [2121-intervals-between-identical-elements](https://github.com/heymadhurhere/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/heymadhurhere/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/heymadhurhere/DSA/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/heymadhurhere/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/heymadhurhere/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
+| [2121-intervals-between-identical-elements](https://github.com/heymadhurhere/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/heymadhurhere/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/heymadhurhere/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/heymadhurhere/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/heymadhurhere/DSA/tree/master/1895-largest-magic-square) |
 | [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
+| [2121-intervals-between-identical-elements](https://github.com/heymadhurhere/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/heymadhurhere/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/heymadhurhere/DSA/tree/master/2615-sum-of-distances) |
