@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/heymadhurhere/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/heymadhurhere/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/heymadhurhere/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/heymadhurhere/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/heymadhurhere/DSA/tree/master/1711-count-good-meals) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/heymadhurhere/DSA/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/heymadhurhere/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/heymadhurhere/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/heymadhurhere/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/heymadhurhere/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/heymadhurhere/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/heymadhurhere/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/heymadhurhere/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/heymadhurhere/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/heymadhurhere/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/heymadhurhere/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/heymadhurhere/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-maximum-score-from-removing-stones](https://github.com/heymadhurhere/DSA/tree/master/1753-maximum-score-from-removing-stones) |
