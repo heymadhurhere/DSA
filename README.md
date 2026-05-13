@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/heymadhurhere/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/heymadhurhere/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/heymadhurhere/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/heymadhurhere/DSA/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/heymadhurhere/DSA/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3903-smallest-stable-index-i](https://github.com/heymadhurhere/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/heymadhurhere/DSA/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heymadhurhere/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/heymadhurhere/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/heymadhurhere/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/heymadhurhere/DSA/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/heymadhurhere/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/heymadhurhere/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/heymadhurhere/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/heymadhurhere/DSA/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/heymadhurhere/DSA/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Two Pointers
 |  |
@@ -1311,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heymadhurhere/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/heymadhurhere/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/heymadhurhere/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/heymadhurhere/DSA/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Bitmask
 |  |
 | ------- |
