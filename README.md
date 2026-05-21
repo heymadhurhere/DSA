@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/heymadhurhere/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/heymadhurhere/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heymadhurhere/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/heymadhurhere/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heymadhurhere/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/heymadhurhere/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heymadhurhere/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heymadhurhere/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/heymadhurhere/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/heymadhurhere/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/heymadhurhere/DSA/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/heymadhurhere/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3265-maximum-good-subarray-sum](https://github.com/heymadhurhere/DSA/tree/master/3265-maximum-good-subarray-sum) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heymadhurhere/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/heymadhurhere/DSA/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/heymadhurhere/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/heymadhurhere/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3055-maximum-odd-binary-number](https://github.com/heymadhurhere/DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/heymadhurhere/DSA/tree/master/3194-find-words-containing-character) |
@@ -1334,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/heymadhurhere/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/heymadhurhere/DSA/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/heymadhurhere/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/heymadhurhere/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
 | ------- |
