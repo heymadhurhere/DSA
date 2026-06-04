@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/heymadhurhere/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/heymadhurhere/DSA/tree/master/2751-robot-collisions) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/heymadhurhere/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/heymadhurhere/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/heymadhurhere/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heymadhurhere/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/heymadhurhere/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/heymadhurhere/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heymadhurhere/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/heymadhurhere/DSA/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heymadhurhere/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/heymadhurhere/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/heymadhurhere/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/heymadhurhere/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/heymadhurhere/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heymadhurhere/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/heymadhurhere/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2594-minimum-time-to-repair-cars](https://github.com/heymadhurhere/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -784,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/heymadhurhere/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/heymadhurhere/DSA/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/heymadhurhere/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/heymadhurhere/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1135,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1362,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/heymadhurhere/DSA/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/heymadhurhere/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heymadhurhere/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/heymadhurhere/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3815-design-auction-system](https://github.com/heymadhurhere/DSA/tree/master/3815-design-auction-system) |
