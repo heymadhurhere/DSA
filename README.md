@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/heymadhurhere/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/heymadhurhere/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/heymadhurhere/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/heymadhurhere/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/heymadhurhere/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/heymadhurhere/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/heymadhurhere/DSA/tree/master/0130-surrounded-regions) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/heymadhurhere/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heymadhurhere/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/heymadhurhere/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/heymadhurhere/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/heymadhurhere/DSA/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heymadhurhere/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/heymadhurhere/DSA/tree/master/0498-diagonal-traverse) |
 | [0773-sliding-puzzle](https://github.com/heymadhurhere/DSA/tree/master/0773-sliding-puzzle) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/heymadhurhere/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/heymadhurhere/DSA/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heymadhurhere/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/heymadhurhere/DSA/tree/master/0437-path-sum-iii) |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/heymadhurhere/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/heymadhurhere/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/heymadhurhere/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/heymadhurhere/DSA/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/heymadhurhere/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/heymadhurhere/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -829,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/heymadhurhere/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
@@ -1140,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/heymadhurhere/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/heymadhurhere/DSA/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/heymadhurhere/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0773-sliding-puzzle](https://github.com/heymadhurhere/DSA/tree/master/0773-sliding-puzzle) |
 | [0894-all-possible-full-binary-trees](https://github.com/heymadhurhere/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/heymadhurhere/DSA/tree/master/1013-fibonacci-number) |
@@ -1482,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/heymadhurhere/DSA/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/heymadhurhere/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
