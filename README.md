@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/heymadhurhere/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/heymadhurhere/DSA/tree/master/2326-spiral-matrix-iv) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/heymadhurhere/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heymadhurhere/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/heymadhurhere/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/heymadhurhere/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/heymadhurhere/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/heymadhurhere/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/heymadhurhere/DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/heymadhurhere/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2326-spiral-matrix-iv](https://github.com/heymadhurhere/DSA/tree/master/2326-spiral-matrix-iv) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/heymadhurhere/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/heymadhurhere/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/heymadhurhere/DSA/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/heymadhurhere/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/heymadhurhere/DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/heymadhurhere/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/heymadhurhere/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/heymadhurhere/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heymadhurhere/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/heymadhurhere/DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/heymadhurhere/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -837,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/heymadhurhere/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -1153,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/heymadhurhere/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heymadhurhere/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Combinatorics
@@ -1497,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/heymadhurhere/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2285-maximum-total-importance-of-roads](https://github.com/heymadhurhere/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/heymadhurhere/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/heymadhurhere/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/heymadhurhere/DSA/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/heymadhurhere/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
