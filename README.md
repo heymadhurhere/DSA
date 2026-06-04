@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/heymadhurhere/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/heymadhurhere/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/heymadhurhere/DSA/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/heymadhurhere/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/heymadhurhere/DSA/tree/master/2751-robot-collisions) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/heymadhurhere/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/heymadhurhere/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/heymadhurhere/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/heymadhurhere/DSA/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heymadhurhere/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/heymadhurhere/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heymadhurhere/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/heymadhurhere/DSA/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/heymadhurhere/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/heymadhurhere/DSA/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heymadhurhere/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
