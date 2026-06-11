@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/heymadhurhere/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/heymadhurhere/DSA/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
+| [1914-cyclically-rotating-a-grid](https://github.com/heymadhurhere/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/heymadhurhere/DSA/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/heymadhurhere/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/heymadhurhere/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/heymadhurhere/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/heymadhurhere/DSA/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/heymadhurhere/DSA/tree/master/1905-count-sub-islands) |
+| [1914-cyclically-rotating-a-grid](https://github.com/heymadhurhere/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/heymadhurhere/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1992-find-all-groups-of-farmland](https://github.com/heymadhurhere/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/heymadhurhere/DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/heymadhurhere/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/heymadhurhere/DSA/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/heymadhurhere/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2079-watering-plants](https://github.com/heymadhurhere/DSA/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/heymadhurhere/DSA/tree/master/2105-watering-plants-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/heymadhurhere/DSA/tree/master/2211-count-collisions-on-a-road) |
