@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/heymadhurhere/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heymadhurhere/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/heymadhurhere/DSA/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/heymadhurhere/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-shifting-letters-ii](https://github.com/heymadhurhere/DSA/tree/master/2465-shifting-letters-ii) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/heymadhurhere/DSA/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/heymadhurhere/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/heymadhurhere/DSA/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heymadhurhere/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/heymadhurhere/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/heymadhurhere/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/heymadhurhere/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2118-maximum-earnings-from-taxi](https://github.com/heymadhurhere/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/heymadhurhere/DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/heymadhurhere/DSA/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2501-longest-square-streak-in-an-array](https://github.com/heymadhurhere/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/heymadhurhere/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2594-minimum-time-to-repair-cars](https://github.com/heymadhurhere/DSA/tree/master/2594-minimum-time-to-repair-cars) |
@@ -1368,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/heymadhurhere/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/heymadhurhere/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heymadhurhere/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/heymadhurhere/DSA/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/heymadhurhere/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/heymadhurhere/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/heymadhurhere/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
