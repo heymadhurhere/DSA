@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/heymadhurhere/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/heymadhurhere/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/heymadhurhere/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2833-furthest-point-from-origin](https://github.com/heymadhurhere/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/heymadhurhere/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/heymadhurhere/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/heymadhurhere/DSA/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-minimum-additions-to-make-valid-string](https://github.com/heymadhurhere/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/heymadhurhere/DSA/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/heymadhurhere/DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [2833-furthest-point-from-origin](https://github.com/heymadhurhere/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heymadhurhere/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/heymadhurhere/DSA/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/heymadhurhere/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
