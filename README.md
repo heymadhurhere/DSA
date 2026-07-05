@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/heymadhurhere/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1357-apply-discount-every-n-orders](https://github.com/heymadhurhere/DSA/tree/master/1357-apply-discount-every-n-orders) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/heymadhurhere/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-design-underground-system](https://github.com/heymadhurhere/DSA/tree/master/1396-design-underground-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/heymadhurhere/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1447-jump-game-iv](https://github.com/heymadhurhere/DSA/tree/master/1447-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/heymadhurhere/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/heymadhurhere/DSA/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/heymadhurhere/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/heymadhurhere/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1396-design-underground-system](https://github.com/heymadhurhere/DSA/tree/master/1396-design-underground-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/heymadhurhere/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/heymadhurhere/DSA/tree/master/1405-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/heymadhurhere/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/heymadhurhere/DSA/tree/master/0355-design-twitter) |
 | [1357-apply-discount-every-n-orders](https://github.com/heymadhurhere/DSA/tree/master/1357-apply-discount-every-n-orders) |
+| [1396-design-underground-system](https://github.com/heymadhurhere/DSA/tree/master/1396-design-underground-system) |
 | [1572-subrectangle-queries](https://github.com/heymadhurhere/DSA/tree/master/1572-subrectangle-queries) |
 | [3815-design-auction-system](https://github.com/heymadhurhere/DSA/tree/master/3815-design-auction-system) |
 ## Data Stream
