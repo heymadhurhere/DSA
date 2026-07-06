@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/heymadhurhere/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/heymadhurhere/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1992-find-all-groups-of-farmland](https://github.com/heymadhurhere/DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2050-parallel-courses-iii](https://github.com/heymadhurhere/DSA/tree/master/2050-parallel-courses-iii) |
 | [2079-watering-plants](https://github.com/heymadhurhere/DSA/tree/master/2079-watering-plants) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/heymadhurhere/DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2104-sum-of-subarray-ranges](https://github.com/heymadhurhere/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/heymadhurhere/DSA/tree/master/2001-jump-game-vii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/heymadhurhere/DSA/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2050-parallel-courses-iii](https://github.com/heymadhurhere/DSA/tree/master/2050-parallel-courses-iii) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/heymadhurhere/DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/heymadhurhere/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heymadhurhere/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/heymadhurhere/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/heymadhurhere/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2050-parallel-courses-iii](https://github.com/heymadhurhere/DSA/tree/master/2050-parallel-courses-iii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/heymadhurhere/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Backtracking
@@ -1540,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/heymadhurhere/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/heymadhurhere/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [2050-parallel-courses-iii](https://github.com/heymadhurhere/DSA/tree/master/2050-parallel-courses-iii) |
 | [2285-maximum-total-importance-of-roads](https://github.com/heymadhurhere/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/heymadhurhere/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/heymadhurhere/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
