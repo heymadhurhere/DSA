@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/heymadhurhere/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/heymadhurhere/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/heymadhurhere/DSA/tree/master/0518-coin-change-ii) |
+| [0528-random-pick-with-weight](https://github.com/heymadhurhere/DSA/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/heymadhurhere/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/heymadhurhere/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/heymadhurhere/DSA/tree/master/0621-task-scheduler) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/heymadhurhere/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/heymadhurhere/DSA/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/heymadhurhere/DSA/tree/master/0456-132-pattern) |
+| [0528-random-pick-with-weight](https://github.com/heymadhurhere/DSA/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/heymadhurhere/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/heymadhurhere/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/heymadhurhere/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0400-nth-digit](https://github.com/heymadhurhere/DSA/tree/master/0400-nth-digit) |
 | [0477-total-hamming-distance](https://github.com/heymadhurhere/DSA/tree/master/0477-total-hamming-distance) |
+| [0528-random-pick-with-weight](https://github.com/heymadhurhere/DSA/tree/master/0528-random-pick-with-weight) |
 | [0738-monotone-increasing-digits](https://github.com/heymadhurhere/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/heymadhurhere/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/heymadhurhere/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -1201,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/heymadhurhere/DSA/tree/master/0528-random-pick-with-weight) |
 | [0878-shifting-letters](https://github.com/heymadhurhere/DSA/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/heymadhurhere/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/heymadhurhere/DSA/tree/master/1109-corporate-flight-bookings) |
@@ -1569,4 +1573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/heymadhurhere/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/heymadhurhere/DSA/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
