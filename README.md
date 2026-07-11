@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 322 | 26 |
+| 323 | 26 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [brute force](#brute-force) (58)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (61)
-- [data structures](#data-structures) (35)
+- [data structures](#data-structures) (36)
 - [dfs and similar](#dfs-and-similar) (11)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (40)
@@ -27,14 +27,14 @@
 - [games](#games) (10)
 - [geometry](#geometry) (9)
 - [graphs](#graphs) (10)
-- [greedy](#greedy) (157)
+- [greedy](#greedy) (158)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (66)
 - [math](#math) (149)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (42)
 - [shortest paths](#shortest-paths) (4)
-- [sortings](#sortings) (63)
+- [sortings](#sortings) (64)
 - [strings](#strings) (29)
 - [trees](#trees) (7)
 - [two pointers](#two-pointers) (38)
@@ -264,6 +264,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
+| 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/845/C%20-%20Two%20TVs/solution.cpp) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.cpp) |
 | 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
 | 1237B | [Balanced Tunnel](https://codeforces.com/contest/1237/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1237/B%20-%20Balanced%20Tunnel/solution.cpp) |
@@ -430,6 +431,7 @@
 |---|---------|------------|----------|
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 665C | [Simple Strings](https://codeforces.com/contest/665/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/665/C%20-%20Simple%20Strings/solution.cpp) |
+| 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/845/C%20-%20Two%20TVs/solution.cpp) |
 | 891A | [Pride](https://codeforces.com/contest/891/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/891/A%20-%20Pride/solution.cpp) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.cpp) |
 | 976C | [Nested Segments](https://codeforces.com/contest/976/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/976/C%20-%20Nested%20Segments/solution.cpp) |
@@ -885,6 +887,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/845/C%20-%20Two%20TVs/solution.cpp) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.cpp) |
 | 976C | [Nested Segments](https://codeforces.com/contest/976/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/976/C%20-%20Nested%20Segments/solution.cpp) |
 | 1101C | [Division and Union](https://codeforces.com/contest/1101/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1101/C%20-%20Division%20and%20Union/solution.cpp) |
