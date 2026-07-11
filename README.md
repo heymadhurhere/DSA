@@ -6,32 +6,32 @@
 
 | Total Problems | Topics |
 |---|---|
-| 210 | 20 |
+| 225 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (15)
-- [bitmasks](#bitmasks) (10)
-- [brute force](#brute-force) (43)
+- [bitmasks](#bitmasks) (11)
+- [brute force](#brute-force) (45)
 - [combinatorics](#combinatorics) (8)
-- [constructive algorithms](#constructive-algorithms) (41)
-- [data structures](#data-structures) (15)
+- [constructive algorithms](#constructive-algorithms) (48)
+- [data structures](#data-structures) (16)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (15)
-- [games](#games) (5)
+- [dp](#dp) (16)
+- [games](#games) (9)
 - [geometry](#geometry) (7)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (103)
+- [greedy](#greedy) (111)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (50)
-- [math](#math) (96)
-- [number theory](#number-theory) (24)
+- [implementation](#implementation) (54)
+- [math](#math) (103)
+- [number theory](#number-theory) (27)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (39)
-- [strings](#strings) (26)
-- [two pointers](#two-pointers) (20)
+- [sortings](#sortings) (40)
+- [strings](#strings) (27)
+- [two pointers](#two-pointers) (22)
 
 ---
 
@@ -66,6 +66,7 @@
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2119A | [Add or XOR](https://codeforces.com/contest/2119/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2119/A%20-%20Add%20or%20XOR/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
@@ -115,8 +116,10 @@
 | 2114D | [Come a Little Closer](https://codeforces.com/contest/2114/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2114/D%20-%20Come%20a%20Little%20Closer/solution.cpp) |
 | 2121A | [Letter Home](https://codeforces.com/contest/2121/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2121/A%20-%20Letter%20Home/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2181H | [Honey Cake](https://codeforces.com/contest/2181/problem/H) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2181/H%20-%20Honey%20Cake/solution.cpp) |
 | 2182B | [New Year Cake](https://codeforces.com/contest/2182/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2182/B%20-%20New%20Year%20Cake/solution.cpp) |
 | 2182C | [Production of Snowmen](https://codeforces.com/contest/2182/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2182/C%20-%20Production%20of%20Snowmen/solution.cpp) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 
 ### combinatorics
 
@@ -166,16 +169,23 @@
 | 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2117B | [Shrink](https://codeforces.com/contest/2117/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2117/B%20-%20Shrink/solution.cpp) |
 | 2118A | [Equal Subsequences](https://codeforces.com/contest/2118/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2118/A%20-%20Equal%20Subsequences/solution.cpp) |
 | 2118B | [Make It Permutation](https://codeforces.com/contest/2118/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2118/B%20-%20Make%20It%20Permutation/solution.cpp) |
 | 2121B | [Above the Clouds](https://codeforces.com/contest/2121/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2121/B%20-%20Above%20the%20Clouds/solution.cpp) |
+| 2123D | [Binary String Battle](https://codeforces.com/contest/2123/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2123/D%20-%20Binary%20String%20Battle/solution.cpp) |
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
 | 2131B | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2131/B%20-%20Alternating%20Series/solution.cpp) |
 | 2134B | [Add 0 or K](https://codeforces.com/contest/2134/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2134/B%20-%20Add%200%20or%20K/solution.cpp) |
+| 2137D | [Replace with Occurrences](https://codeforces.com/contest/2137/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2137/D%20-%20Replace%20with%20Occurrences/solution.cpp) |
+| 2161C | [Loyalty](https://codeforces.com/contest/2161/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2161/C%20-%20Loyalty/solution.cpp) |
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2189B | [The Curse of the Frog](https://codeforces.com/contest/2189/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2189/B%20-%20The%20Curse%20of%20the%20Frog/solution.cpp) |
+| 2190A | [Sorting Game](https://codeforces.com/contest/2190/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2190/A%20-%20Sorting%20Game/solution.cpp) |
+| 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 
 ### data structures
 
@@ -187,6 +197,7 @@
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
+| 1679B | [Stone Age Problem](https://codeforces.com/contest/1679/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1679/B%20-%20Stone%20Age%20Problem/solution.cpp) |
 | 1790D | [Matryoshkas](https://codeforces.com/contest/1790/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1790/D%20-%20Matryoshkas/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
@@ -222,6 +233,7 @@
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
 | 2182C | [Production of Snowmen](https://codeforces.com/contest/2182/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2182/C%20-%20Production%20of%20Snowmen/solution.cpp) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
+| 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.cpp) |
 
 ### games
 
@@ -232,6 +244,10 @@
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2116A | [Gellyfish and Tricolor Pansy](https://codeforces.com/contest/2116/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2116/A%20-%20Gellyfish%20and%20Tricolor%20Pansy/solution.cpp) |
+| 2123D | [Binary String Battle](https://codeforces.com/contest/2123/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2123/D%20-%20Binary%20String%20Battle/solution.cpp) |
+| 2190A | [Sorting Game](https://codeforces.com/contest/2190/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2190/A%20-%20Sorting%20Game/solution.cpp) |
+| 2196A | [Game with a Fraction](https://codeforces.com/contest/2196/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2196/A%20-%20Game%20with%20a%20Fraction/solution.cpp) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 
 ### geometry
 
@@ -340,6 +356,7 @@
 | 2119A | [Add or XOR](https://codeforces.com/contest/2119/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2119/A%20-%20Add%20or%20XOR/solution.cpp) |
 | 2119B | [Line Segments](https://codeforces.com/contest/2119/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2119/B%20-%20Line%20Segments/solution.cpp) |
 | 2121B | [Above the Clouds](https://codeforces.com/contest/2121/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2121/B%20-%20Above%20the%20Clouds/solution.cpp) |
+| 2123D | [Binary String Battle](https://codeforces.com/contest/2123/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2123/D%20-%20Binary%20String%20Battle/solution.cpp) |
 | 2124A | [Deranged Deletions](https://codeforces.com/contest/2124/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2124/A%20-%20Deranged%20Deletions/solution.cpp) |
 | 2124B | [Minimise Sum](https://codeforces.com/contest/2124/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2124/B%20-%20Minimise%20Sum/solution.cpp) |
 | 2126B | [No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2126/B%20-%20No%20Casino%20in%20the%20Mountains/solution.cpp) |
@@ -348,6 +365,8 @@
 | 2131B | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2131/B%20-%20Alternating%20Series/solution.cpp) |
 | 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
 | 2149C | [MEX rose](https://codeforces.com/contest/2149/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2149/C%20-%20MEX%20rose/solution.cpp) |
+| 2161C | [Loyalty](https://codeforces.com/contest/2161/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2161/C%20-%20Loyalty/solution.cpp) |
+| 2174A | [Needle in a Haystack](https://codeforces.com/contest/2174/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2174/A%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
 | 2176C | [Odd Process](https://codeforces.com/contest/2176/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2176/C%20-%20Odd%20Process/solution.cpp) |
@@ -358,6 +377,11 @@
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 | 2189B | [The Curse of the Frog](https://codeforces.com/contest/2189/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2189/B%20-%20The%20Curse%20of%20the%20Frog/solution.cpp) |
+| 2190A | [Sorting Game](https://codeforces.com/contest/2190/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2190/A%20-%20Sorting%20Game/solution.cpp) |
+| 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.cpp) |
+| 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
+| 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 
 ### hashing
 
@@ -380,6 +404,7 @@
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
+| 1679B | [Stone Age Problem](https://codeforces.com/contest/1679/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1679/B%20-%20Stone%20Age%20Problem/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1692E | [Binary Deque](https://codeforces.com/contest/1692/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1692/E%20-%20Binary%20Deque/solution.cpp) |
@@ -412,6 +437,7 @@
 | 2117A | [False Alarm](https://codeforces.com/contest/2117/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2117/A%20-%20False%20Alarm/solution.cpp) |
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2172E | [Number Maze](https://codeforces.com/contest/2172/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2172/E%20-%20Number%20Maze/solution.cpp) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 | 2178C | [First or Second](https://codeforces.com/contest/2178/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2178/C%20-%20First%20or%20Second/solution.cpp) |
@@ -420,6 +446,8 @@
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
+| 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.cpp) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 
 ### math
 
@@ -493,6 +521,7 @@
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
 | 2111A | [Energy Crystals](https://codeforces.com/contest/2111/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2111/A%20-%20Energy%20Crystals/solution.cpp) |
 | 2112A | [Race](https://codeforces.com/contest/2112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2112/A%20-%20Race/solution.cpp) |
@@ -515,12 +544,18 @@
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
 | 2179C | [Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2179/C%20-%20Blackslex%20and%20Number%20Theory/solution.cpp) |
+| 2181H | [Honey Cake](https://codeforces.com/contest/2181/problem/H) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2181/H%20-%20Honey%20Cake/solution.cpp) |
 | 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.cpp) |
 | 2184B | [Hourglass](https://codeforces.com/contest/2184/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2184/B%20-%20Hourglass/solution.cpp) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
 | 2189B | [The Curse of the Frog](https://codeforces.com/contest/2189/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2189/B%20-%20The%20Curse%20of%20the%20Frog/solution.cpp) |
+| 2196A | [Game with a Fraction](https://codeforces.com/contest/2196/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2196/A%20-%20Game%20with%20a%20Fraction/solution.cpp) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
+| 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
+| 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 
 ### number theory
 
@@ -544,12 +579,15 @@
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2117/D%20-%20Retaliation/solution.cpp) |
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
 | 2126E | [G-C-D, Unlucky!](https://codeforces.com/contest/2126/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2126/E%20-%20G-C-D%2C%20Unlucky!/solution.cpp) |
 | 2134B | [Add 0 or K](https://codeforces.com/contest/2134/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2134/B%20-%20Add%200%20or%20K/solution.cpp) |
 | 2179C | [Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2179/C%20-%20Blackslex%20and%20Number%20Theory/solution.cpp) |
+| 2181H | [Honey Cake](https://codeforces.com/contest/2181/problem/H) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2181/H%20-%20Honey%20Cake/solution.cpp) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 
 ### shortest paths
 
@@ -597,6 +635,7 @@
 | 2126C | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2126/C%20-%20I%20Will%20Definitely%20Make%20It/solution.cpp) |
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.cpp) |
 | 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
+| 2161C | [Loyalty](https://codeforces.com/contest/2161/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2161/C%20-%20Loyalty/solution.cpp) |
 | 2176C | [Odd Process](https://codeforces.com/contest/2176/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2176/C%20-%20Odd%20Process/solution.cpp) |
 | 2179C | [Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2179/C%20-%20Blackslex%20and%20Number%20Theory/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
@@ -626,6 +665,7 @@
 | 2121B | [Above the Clouds](https://codeforces.com/contest/2121/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2121/B%20-%20Above%20the%20Clouds/solution.cpp) |
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
 | 2149D | [A and B](https://codeforces.com/contest/2149/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2149/D%20-%20A%20and%20B/solution.cpp) |
+| 2174A | [Needle in a Haystack](https://codeforces.com/contest/2174/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2174/A%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
@@ -655,6 +695,8 @@
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 2111C | [Equal Values](https://codeforces.com/contest/2111/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2111/C%20-%20Equal%20Values/solution.cpp) |
 | 2112C | [Coloring Game](https://codeforces.com/contest/2112/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/heymadhurhere/DSA/blob/HEAD/2112/C%20-%20Coloring%20Game/solution.cpp) |
+| 2161C | [Loyalty](https://codeforces.com/contest/2161/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2161/C%20-%20Loyalty/solution.cpp) |
+| 2174A | [Needle in a Haystack](https://codeforces.com/contest/2174/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2174/A%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/heymadhurhere/DSA/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
 
 ---
