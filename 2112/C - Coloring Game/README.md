@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/2112/problem/C" target="_blank" rel="noopener noreferrer">2112C — Coloring Game</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1300 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2112C](https://codeforces.com/contest/2112/problem/C) |
+
+## Topics
+`binary search` `brute force` `greedy` `two pointers`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Coloring Game</div><div class="time-limit"><div class="property-title">time limit per test</div>2.5 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Alice and Bob are playing a game using an integer array $$$a$$$ of size $$$n$$$.</p><p>Initially, all elements of the array are colorless. First, Alice chooses $$$3$$$ elements and colors them red. Then Bob chooses any element and colors it blue (if it was red — recolor it). Alice wins if the sum of the red elements is strictly greater than the value of the blue element.</p><p>Your task is to calculate the number of ways that Alice can choose $$$3$$$ elements in order to win regardless of Bob's actions.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \le t \le 1000$$$) — the number of test cases.</p><p>The first line of each test case contains a single integer $$$n$$$ ($$$3 \le n \le 5000$$$).</p><p>The second line contains $$$n$$$ integers $$$a_1, a_2, \dots, a_n$$$ ($$$1 \le a_1 \le a_2 \le \cdots \le a_n \le 10^5$$$).</p><p>Additional constraint on the input: the sum of $$$n$$$ over all test cases doesn't exceed $$$5000$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print a single integer — the number of ways that Alice can choose $$$3$$$ elements in order to win regardless of Bob's actions.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id006006241992262096" id="id00551319068280028" class="input-output-copier">Copy</div></div><pre id="id006006241992262096"><div class="test-example-line test-example-line-even test-example-line-0">6</div><div class="test-example-line test-example-line-odd test-example-line-1">3</div><div class="test-example-line test-example-line-odd test-example-line-1">1 2 3</div><div class="test-example-line test-example-line-even test-example-line-2">4</div><div class="test-example-line test-example-line-even test-example-line-2">1 1 2 4</div><div class="test-example-line test-example-line-odd test-example-line-3">5</div><div class="test-example-line test-example-line-odd test-example-line-3">7 7 7 7 7</div><div class="test-example-line test-example-line-even test-example-line-4">5</div><div class="test-example-line test-example-line-even test-example-line-4">1 1 2 2 4</div><div class="test-example-line test-example-line-odd test-example-line-5">6</div><div class="test-example-line test-example-line-odd test-example-line-5">2 3 3 4 5 5</div><div class="test-example-line test-example-line-even test-example-line-6">5</div><div class="test-example-line test-example-line-even test-example-line-6">1 1 1 1 3</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008938211480693461" id="id008274308774751729" class="input-output-copier">Copy</div></div><pre id="id008938211480693461">0
+0
+10
+2
+16
+0
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first two test cases, no matter which three elements Alice chooses, Bob will be able to paint one element blue so that Alice does not win.</p><p>In the third test case, Alice can choose any three elements. If Bob colors one of the red elements, the sum of red elements will be $$$14$$$, and the sum of blue elements will be $$$7$$$. If Bob chooses an uncolored element, the sum of red elements will be $$$21$$$, and the sum of blue elements will be $$$7$$$.</p><p>In the fourth test case, Alice can choose either the $$$1$$$-st, $$$3$$$-rd and $$$4$$$-th element, or the $$$2$$$-nd, $$$3$$$-rd and $$$4$$$-th element.</p></div>
