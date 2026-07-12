@@ -1067,4 +1067,20 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/heymadhurhere/DSA/tree/master/0207-course-schedule) |
+## Array
+|  |
+| ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/heymadhurhere/DSA/tree/master/1627-graph-connectivity-with-threshold) |
+## Math
+|  |
+| ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/heymadhurhere/DSA/tree/master/1627-graph-connectivity-with-threshold) |
+## Union-Find
+|  |
+| ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/heymadhurhere/DSA/tree/master/1627-graph-connectivity-with-threshold) |
+## Number Theory
+|  |
+| ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/heymadhurhere/DSA/tree/master/1627-graph-connectivity-with-threshold) |
 <!---LeetCode Topics End-->
