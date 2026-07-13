@@ -1080,6 +1080,7 @@
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/heymadhurhere/DSA/tree/master/1797-design-authentication-manager) |
 ## Stack
 |  |
 | ------- |
@@ -1088,13 +1089,19 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/heymadhurhere/DSA/tree/master/1797-design-authentication-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/heymadhurhere/DSA/tree/master/1797-design-authentication-manager) |
 ## Data Stream
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
+## Hash Table
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/heymadhurhere/DSA/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
