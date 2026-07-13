@@ -1070,4 +1070,28 @@
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/heymadhurhere/DSA/tree/master/0968-binary-tree-cameras) |
+## Array
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
