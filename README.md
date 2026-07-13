@@ -1065,6 +1065,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0968-binary-tree-cameras](https://github.com/heymadhurhere/DSA/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -1077,6 +1078,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
@@ -1089,6 +1091,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/heymadhurhere/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/heymadhurhere/DSA/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
