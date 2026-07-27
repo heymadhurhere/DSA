@@ -1065,6 +1065,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/heymadhurhere/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/heymadhurhere/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -1077,9 +1078,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/heymadhurhere/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/heymadhurhere/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/heymadhurhere/DSA/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/heymadhurhere/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
