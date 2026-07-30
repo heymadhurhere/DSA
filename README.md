@@ -1067,6 +1067,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/heymadhurhere/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/heymadhurhere/DSA/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/heymadhurhere/DSA/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -1088,4 +1089,20 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/heymadhurhere/DSA/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/heymadhurhere/DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/heymadhurhere/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/heymadhurhere/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/heymadhurhere/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
