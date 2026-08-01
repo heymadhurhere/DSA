@@ -1101,8 +1101,17 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/heymadhurhere/DSA/tree/master/0239-sliding-window-maximum) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/heymadhurhere/DSA/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/heymadhurhere/DSA/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/heymadhurhere/DSA/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+## Shortest Path
+|  |
+| ------- |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/heymadhurhere/DSA/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 <!---LeetCode Topics End-->
