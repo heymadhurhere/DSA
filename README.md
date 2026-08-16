@@ -1072,10 +1072,12 @@
 |  |
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/heymadhurhere/DSA/tree/master/0781-rabbits-in-forest) |
+| [2845-count-of-interesting-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2845-count-of-interesting-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/heymadhurhere/DSA/tree/master/0781-rabbits-in-forest) |
+| [2845-count-of-interesting-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2845-count-of-interesting-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -1092,4 +1094,8 @@
 |  |
 | ------- |
 | [1129-shortest-path-with-alternating-colors](https://github.com/heymadhurhere/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [2845-count-of-interesting-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2845-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
