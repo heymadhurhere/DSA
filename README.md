@@ -1098,4 +1098,8 @@
 |  |
 | ------- |
 | [2845-count-of-interesting-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2845-count-of-interesting-subarrays) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/heymadhurhere/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
