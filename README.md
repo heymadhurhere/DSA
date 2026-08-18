@@ -1102,5 +1102,6 @@
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/heymadhurhere/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1174-immediate-food-delivery-ii](https://github.com/heymadhurhere/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/heymadhurhere/DSA/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
