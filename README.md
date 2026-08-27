@@ -1073,6 +1073,7 @@
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/heymadhurhere/DSA/tree/master/0781-rabbits-in-forest) |
 | [2845-count-of-interesting-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2845-count-of-interesting-subarrays) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/heymadhurhere/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Hash Table
 |  |
 | ------- |
@@ -1086,6 +1087,7 @@
 |  |
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/heymadhurhere/DSA/tree/master/0781-rabbits-in-forest) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/heymadhurhere/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Breadth-First Search
 |  |
 | ------- |
