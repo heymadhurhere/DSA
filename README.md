@@ -1088,6 +1088,7 @@
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/heymadhurhere/DSA/tree/master/0781-rabbits-in-forest) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/heymadhurhere/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4026-maximum-gap-between-stations](https://github.com/heymadhurhere/DSA/tree/master/4026-maximum-gap-between-stations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1106,4 +1107,12 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/heymadhurhere/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1174-immediate-food-delivery-ii](https://github.com/heymadhurhere/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/heymadhurhere/DSA/tree/master/1193-monthly-transactions-i) |
+## Two Pointers
+|  |
+| ------- |
+| [4026-maximum-gap-between-stations](https://github.com/heymadhurhere/DSA/tree/master/4026-maximum-gap-between-stations) |
+## String
+|  |
+| ------- |
+| [4026-maximum-gap-between-stations](https://github.com/heymadhurhere/DSA/tree/master/4026-maximum-gap-between-stations) |
 <!---LeetCode Topics End-->
