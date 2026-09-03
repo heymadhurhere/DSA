@@ -9,49 +9,18 @@
  */
 class Solution {
 public:
-
-    
-    bool getPath(TreeNode* root, vector<int>& arr, int x) {
-        if (!root) {
-            return false;
+    TreeNode* solve(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if (!root || root == p || root == q) {
+            return root;
         }
-        arr.push_back(root->val);
-        if (root->val == x) {
-            return true;
-        }
-        if (getPath(root->left, arr, x) || getPath(root->right, arr, x)) {
-            return true;
-        }
-        arr.pop_back();
-        return false;
+        TreeNode* l = solve(root->left, p, q);
+        TreeNode* r = solve(root->right, p, q);
+        if (!l) return r;
+        if (!r) return l;
+        return root;
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<int> first;
-        vector<int> second;
-
-        int x = p->val;
-        int y = q->val;
-
-        getPath(root, first, x);
-        getPath(root, second, y);
-
-        reverse(first.begin(), first.end());
-        reverse(second.begin(), second.end());
-
-        bool found = false;
-        int ans = 0;
-        for (int i = 0; i < first.size(); ++i){
-            for (int j = 0; j < second.size(); ++j){
-                if (first[i] == second[j]){
-                    ans = first[i];
-                    found = true;
-                    break;
-                }
-            }
-            if (found) break;
-        }
-
-        TreeNode* temp = new TreeNode(ans);
-        return temp;
+        TreeNode* ans = solve(root, p, q);
+        return ans;
     }
 };
