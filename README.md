@@ -1077,6 +1077,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/heymadhurhere/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0781-rabbits-in-forest](https://github.com/heymadhurhere/DSA/tree/master/0781-rabbits-in-forest) |
 | [2845-count-of-interesting-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2845-count-of-interesting-subarrays) |
 ## Math
@@ -1114,6 +1115,7 @@
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/heymadhurhere/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [4026-maximum-gap-between-stations](https://github.com/heymadhurhere/DSA/tree/master/4026-maximum-gap-between-stations) |
 ## Tree
 |  |
@@ -1135,4 +1137,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/heymadhurhere/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
