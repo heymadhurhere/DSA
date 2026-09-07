@@ -1077,6 +1077,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/heymadhurhere/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0781-rabbits-in-forest](https://github.com/heymadhurhere/DSA/tree/master/0781-rabbits-in-forest) |
 | [2845-count-of-interesting-subarrays](https://github.com/heymadhurhere/DSA/tree/master/2845-count-of-interesting-subarrays) |
@@ -1141,4 +1142,16 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/heymadhurhere/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
