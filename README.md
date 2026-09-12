@@ -1121,14 +1121,17 @@
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/heymadhurhere/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -1154,4 +1157,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/heymadhurhere/DSA/tree/master/0146-lru-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/heymadhurhere/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
